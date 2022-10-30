@@ -79,18 +79,18 @@ global.lynk = 'https://lynk.id/faatbot'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA SOSSIAL ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.sig = 'https://instagram.com/muhsyafaat1302'
 global.sgh = 'https://github.com/mscrekomenworld' //github
-global.sgc = 'https://chat.whatsapp.com/LmbsOrpSGEpDdFdpuukmmP' //group whatsapp
+global.sgc = 'https://chat.whatsapp.com/JISfM9TuKDi0wv4jRWC69h' //group whatsapp
 global.sdc = '-' //discord
-global.snh = 'https://youtube.com/channel/UCjoPsysjCn2Qa0dRalUb2mg'
+global.snh = 'https://youtube.com/c/ProfitinGT'
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ DONASI ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.pdana = '0813 6128 1833'
-global.povo = '-'
-global.pgopay = '0813 6128 1833'
+global.pdana = '0821 9046 4669'
+global.povo = '0823 9326 7882'
+global.pgopay = '0823 9326 7884'
 global.plinkaja = '-' //link aja
-global.ppulsa = '0813 6128 1833'
-global.ppulsa2 = '083838186170'
-global.psaweria = 'https://saweria.co/hyuura'
+global.ppulsa = '0823 9326 7884'
+global.ppulsa2 = '0823 9326 7882'
+global.psaweria = 'https://saweria.co/faatbot'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ TAMPILAN ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
