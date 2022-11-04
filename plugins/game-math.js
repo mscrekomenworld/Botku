@@ -1,3 +1,4 @@
+`
 let handler = async (m, { conn, args, usedPrefix, command }) => {
     conn.math = conn.math ? conn.math : {}
     const buttons = Object.keys(modes).map(v => [v, `${usedPrefix}${command} ${v}`])
