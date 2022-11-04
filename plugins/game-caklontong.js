@@ -1,4 +1,4 @@
-import { caklontong } from '@bochilteam/scraper'
+`import { caklontong } from '@bochilteam/scraper'
 
 let timeout = 60000
 let poin = 4999
