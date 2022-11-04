@@ -44,17 +44,17 @@ global.owner = [
 ]
 global.mods = []
 global.prems = []
-global.nomorbot = '19362605390'
+global.nomorbot = '62823932678841'
 global.nomorown = '6282393267884'
-global.nomorown1 = '6282393267882'
-global.nomorown2 = '19362605390'
+global.nomorown1 = '6282393267884'
+global.nomorown2 = '6282393267884'
 global.nomorwa = '0'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ WM ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.readMore = readMore
-global.author = 'Created By Aldi'
+global.author = 'Created By Faat'
 global.namebot = '𝑭𝑨𝑨𝑻 𝑩𝑶𝑻'
 global.wm = '© 𝘾𝙧𝙚𝙖𝙩𝙚𝙙 𝘽𝙮 𝑭𝑨𝑨𝑻 𝑩𝑶𝑻'
 global.media = 'https://telegra.ph/file/5d45a3d1e12726d98c5e4.jpg'
