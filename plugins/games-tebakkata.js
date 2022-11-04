@@ -1,4 +1,4 @@
-import { tebakkata } from '@bochilteam/scraper'
+`import { tebakkata } from '@bochilteam/scraper'
 
 let timeout = 60000
 let poin = 4999
@@ -29,4 +29,4 @@ handler.help = ['tebakkata']
 handler.tags = ['game']
 handler.command = /^tebakkata/i
 
-export default handler
+export default handler`
