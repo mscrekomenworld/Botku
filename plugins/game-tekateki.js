@@ -1,4 +1,4 @@
-import fetch from 'node-fetch'
+`import fetch from 'node-fetch'
 let timeout = 120000
 let poin = 500
 
