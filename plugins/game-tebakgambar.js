@@ -1,4 +1,4 @@
-import { tebakgambar } from '@bochilteam/scraper'
+`import { tebakgambar } from '@bochilteam/scraper'
 
 let timeout = 60000
 let poin = 4999
