@@ -31,6 +31,6 @@ handler.help = ['donasi']
 handler.tags = ['main']
 handler.command = /^(donasi|donate)$/i
 
-handler.limit = true
+handler.limit = false
 
 export default handler
